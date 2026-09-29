@@ -1,0 +1,20 @@
+Studio Fryzur - źródła materiałów użytych na stronie
+
+ZDJĘCIA
+Strona na start nie zawiera zdjęć salonu. W wizytówce Google są tylko dwa zdjęcia klientów (2017) i Street View; nie należą do salonu, więc nie zostały użyte.
+img/og.jpg (obrazek do udostępniania linku) to zrzut ekranu tej samej strony, bez żadnych cudzych materiałów.
+
+WARKOCZ Z GODZINAMI
+Rysowany przez kod strony (.tooling/build.mjs) na podstawie godzin otwarcia z Map Google (sprawdzone 28.09.2026).
+
+OPINIE
+Cytaty to prawdziwe, publiczne opinie z Map Google, podpisane imieniem i inicjałem nazwiska. Niektóre skrócono bez zmiany sensu i poprawiono drobne literówki.
+
+CZCIONKI
+Sofia Sans i Sofia Sans Extra Condensed, Copyright 2019 The Sofia Sans Project Authors (https://github.com/lettersoup/Sofia-Sans), SIL Open Font License 1.1 (pliki z pakietów Fontsource).
+
+IKONY
+Phosphor Icons (odmiana Bold), licencja MIT - https://phosphoricons.com
+
+MAPA
+© autorzy OpenStreetMap, licencja ODbL - https://www.openstreetmap.org/copyright
